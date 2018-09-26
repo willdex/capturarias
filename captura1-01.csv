@@ -1,0 +1,8 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+38:4C:90:0B:24:00, 2018-09-26 00:43:58, 2018-09-26 00:46:18,  6, 130, WPA2, CCMP, PSK, -83,      503,      107,   0.  0.  0.  0,  11, FLIA. ARIAS, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+78:C3:E9:A5:7B:0C, 2018-09-26 00:44:01, 2018-09-26 00:46:17, -87,      767, 38:4C:90:0B:24:00,FLIA. ARIAS
+BC:54:36:72:E1:11, 2018-09-26 00:44:24, 2018-09-26 00:45:54,  -1,        3, 38:4C:90:0B:24:00,
+
